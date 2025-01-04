@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hammad</h1>
-<h3 align="center">A passionate computer science student</h3>
+<h3 align="center">A Passionate Computer Science Student</h3>
 
 - 🌱 I’m currently learning **C++, Python**
 

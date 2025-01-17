@@ -1,37 +1,19 @@
-# 👋 Welcome to My GitHub Profile!
+<h1 align="center">Hi 👋, I'm Hammad</h1>
+<h3 align="center">A Passionate Computer Science Student</h3>
 
-## About Me
-Hi there! I'm a passionate **developer, dreamer, and lifelong learner** who loves solving problems and turning ideas into reality. 🌟 
+- 🌱 I’m currently learning **C++, Python**
 
-- 💻 **Tech Enthusiast**: Always exploring the latest trends in software development.
-- 🎨 **Creative Thinker**: I enjoy blending logic with creativity to craft innovative projects.
-- 📖 **Eternal Learner**: I'm constantly expanding my knowledge, one line of code at a time.
+- 📫 How to reach me **shabbir.hammad.01@gmail.com**
 
-## 🌟 Highlights of My Work
-- **[Dream Journalizer](https://github.com/your-repo-name)**: A website designed to journalize dreams and dive into the subconscious mind.
-- **Codex 2.0**: Successfully co-managed this competition at Namal University, fostering innovation and collaboration.
-- **Women in STEM Presentation**: Advocated for diversity and inclusivity in technology through impactful presentations.
+- 📄 Know about my experiences [www.linkedin.com/in/hammad-shabbir7283](www.linkedin.com/in/hammad-shabbir7283)
 
-## 🔧 Tech Stack & Skills
-- **Languages**: Python, JavaScript, C++, HTML/CSS
-- **Frameworks**: React, Django, Flask
-- **Tools**: Git, Docker, Figma
-- **Interests**: AI/ML, Web Development, Data Visualization
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hammad-shabbir7283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammad-shabbir7283" height="30" width="40" /></a>
+<a href="https://instagram.com/me.__.hammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me.__.hammad" height="30" width="40" /></a>
+</p>
 
-## 🌱 What I'm Learning
-- Advanced algorithms and their real-world applications
-- Exploring **Machine Learning** and AI
-- Deep diving into the intersection of **tech and social impact**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 📈 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-## 💬 Let's Connect
-- 🌐 Website: [Your Portfolio Website](https://yourwebsite.com)
-- 📩 Email: [youremail@example.com](mailto:youremail@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
----
-
-_"Code is poetry, and every line is a step towards a better world."_ ✨
